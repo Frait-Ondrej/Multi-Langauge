@@ -1,0 +1,9 @@
+{
+  "HomePage": {
+    "title": "Ahoj světe!",
+    "about": "Go to the about page"
+  },
+  "Navigation": {
+    "home": "Domů"
+  }
+}
